@@ -32,6 +32,6 @@ __Формат и требования к сдаче:__
 #### test_compare_average_equal(capsys): 
 * Эта функция тестирует метод compare_average() класса MyList. Она проверяет, что compare_average() возвращает правильное сообщение, когда средние значения двух списков равны или когда одно среднее значение больше другого. Это важно, потому что compare_average() должен корректно сравнивать средние значения двух списков.
 
-![Pylint Report](https://github.com/Sent1mus/GB_14_Unit-testing/tree/main/seminar_06/pylint_report.png)
+![Pylint Report](https://github.com/Sent1mus/GB_14_Unit-testing/blob/main/seminar_06/pylint_report.png)
 
-![Coverage Report](https://github.com/Sent1mus/GB_14_Unit-testing/tree/main/seminar_06/coverage_report.png)
+![Coverage Report](https://github.com/Sent1mus/GB_14_Unit-testing/blob/main/seminar_06/coverage_report.png)
